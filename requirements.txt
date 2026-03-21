@@ -1,4 +1,13 @@
 pandas
 numpy
 seaborn
+logging
+os
+datetime
+sys
+matplotlib
+warning
+scikit-learn
+catboost
+xgboost
 -e .
