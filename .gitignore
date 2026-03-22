@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+artifacts/
 build/
 develop-eggs/
 dist/
@@ -205,3 +206,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+
+# 0.2126 Baskey's laptop
