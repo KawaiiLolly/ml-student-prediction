@@ -177,9 +177,7 @@ http://127.0.0.1:5000
 
 ## 📌 Future Improvements
 
-* Add model accuracy dashboard
 * Add charts and visual analytics
-* Deploy on cloud
 * Add downloadable prediction reports
 
 ---
